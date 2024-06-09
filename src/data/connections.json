@@ -1,0 +1,48 @@
+{
+  "luminarias": [
+    {
+      "cable": "14 AWG",
+      "termico": "16A"
+    },
+    {
+      "cable": "14 AWG",
+      "termico": "16A"
+    },
+    {
+      "cable": "14 AWG",
+      "termico": "16A"
+    }
+  ],
+  "tomacorrientes": [
+    {
+      "cable": "12 AWG",
+      "termico": "25 A"
+    },
+    {
+      "cable": "12 AWG",
+      "termico": "25 A"
+    },
+    {
+      "cable": "12 AWG",
+      "termico": "25 A"
+    },
+    {
+      "cable": "12 AWG",
+      "termico": "25 A"
+    },
+    {
+      "cable": "12 AWG",
+      "termico": "25 A"
+    }
+  ],
+  "tomacorrienteDeFuerza": [
+    {
+      "cable": "12 AWG",
+      "termico": "25 A"
+    }
+  ],
+  "medidor": {
+    "cable": "8 AWG",
+    "termico": "40 A"
+  }
+}
